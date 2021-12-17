@@ -1,5 +1,5 @@
 <html>
-<html>
+
 <head>
 <title>Przepis na pierniczki</title>
 <body background="tapeta-lukrowane-pierniczki-swiateczne.JPG" text="black">
