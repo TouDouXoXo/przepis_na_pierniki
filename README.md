@@ -13,5 +13,6 @@
 <p>•2 łyżki masła
 <p>•1 jajko (+ dodatkowo 1 jajko do posmarowania)</p>
 <p>•ok. 2 - 4 łyżki ciepłego mleka</p>
+  <h1 style="border:2px solid DodgerBlue;">Sposób przygotowania</h1>
 <head>
 <html>
